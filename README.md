@@ -3,8 +3,8 @@
 - 🔭 Estudante no 3º ano de técnico em informática.
 - 📫 leticiasvd@outlook.com
 - 🚀 Tech Enthusiast
-- 🌐 Front-end: HTML, CSS, JavaScript
-- 💻 Back-end: Python (Flask)
+- 🌐 Front-end: HTML e CSS
+- 💻 Back-end: JavaScript, PhP e Python (Flask)
 - 🗃️ Banco de Dados: MySQL
 - 📚 Em aprendizado: Node.js 
 <div> 
