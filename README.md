@@ -4,7 +4,7 @@
 - 📫 leticiasvd@outlook.com
 - 🚀 Tech Enthusiast
 - 🌐 Front-end: HTML e CSS
-- 💻 Back-end: JavaScript, PhP e Python (Flask)
+- 💻 Back-end: JavaScript, PhP e Python
 - 🗃️ Banco de Dados: MySQL
 - 📚 Em aprendizado: Node.js
 <div> 
